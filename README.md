@@ -1,6 +1,6 @@
 # Mackintosh-Z490-Aorus-Master-i7-10700-RX6600XT
 本人长期使用该机，特地定制了ALC1220板载声卡ID18，除SPDIF数吗输出没有设备没有定制外，其它内接口全部测试完好。板载有线网卡I225V也通过bios及Opencore设置实现直接驱动。
-硬件配置配置
+# 硬件配置配置
 <html xmlns:o="urn:schemas-microsoft-com:office:office"
 xmlns:w="urn:schemas-microsoft-com:office:word"
 xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
@@ -797,4 +797,5 @@ WiFi / BT | Fenvi   T919 |  
 </body>
 
 </html>
+
 ### Gigabyte Z490 aorus master EFI of OpenCore.  **禁止用于商业用途。**
