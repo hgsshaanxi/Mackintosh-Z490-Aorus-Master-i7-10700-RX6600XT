@@ -1,0 +1,1 @@
+# Mackintosh-Z490-Aorus-Master-i7-10700-RX6600XT
